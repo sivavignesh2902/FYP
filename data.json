@@ -11,6 +11,18 @@
         {"value":"tropical","type":"positive"}
       ],
       "habitats": ["rainforests", "jungles", "tropical forests"]
+    },
+    {
+      "name": "dog",
+      "adjectives": [
+        {"value":"cute","type":"positive"},
+        {"value":"angry","type":"negative"},
+        {"value":"ferocious","type":"negative"},
+        {"value":"active","type":"positive"},
+        {"value":"happy","type":"positive"},
+        {"value":"obedient","type":"positive"}
+      ],
+      "habitats": ["rainforests", "jungles", "tropical forests"]
     }
   ]
 }    

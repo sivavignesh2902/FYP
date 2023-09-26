@@ -1,0 +1,221 @@
+{
+    "habitats": [
+      {
+        "name": "Tropical Rainforest",
+        "description": "Lush, dense forests with high rainfall and diverse flora and fauna."
+      },
+      {
+        "name": "Savanna",
+        "description": "Grassy plains with scattered trees, home to large herbivores and predators."
+      },
+      {
+        "name": "Coral Reef",
+        "description": "Underwater ecosystems with colorful corals and a variety of marine life."
+      },
+      {
+        "name": "Desert",
+        "description": "Arid regions with low precipitation, adapted to extreme heat and drought."
+      },
+      {
+        "name": "Mangrove Forest",
+        "description": "Coastal wetlands with salt-tolerant trees, vital for coastal protection."
+      },
+      {
+        "name": "Grassland",
+        "description": "Wide open spaces with grasses, home to grazing mammals and birds."
+      },
+      {
+        "name": "Freshwater Wetland",
+        "description": "Marshes, swamps, and bogs with abundant aquatic plants and wildlife."
+      },
+      {
+        "name": "Arctic Tundra",
+        "description": "Cold, treeless regions with permafrost, inhabited by hardy mammals and birds."
+      },
+      {
+        "name": "Mountainous Region",
+        "description": "High-altitude areas with diverse ecosystems, including alpine meadows."
+      },
+      {
+        "name": "Estuary",
+        "description": "Transitional zones where rivers meet the sea, rich in nutrients and biodiversity."
+      },  
+
+      {
+        "name": "Boreal Forest",
+        "description": "Coniferous forests in cold northern regions with diverse wildlife."
+      },
+      {
+        "name": "Mediterranean Scrubland",
+        "description": "Dry, shrub-covered landscapes with unique plant and animal species."
+      },
+      {
+        "name": "Freshwater Lake",
+        "description": "Large inland bodies of freshwater, supporting aquatic life."
+      },
+      {
+        "name": "Tropical Dry Forest",
+        "description": "Seasonal forests in tropical regions with distinct wet and dry seasons."
+      },
+      {
+        "name": "Polar Ice Cap",
+        "description": "Frozen regions at the Earth's poles, inhabited by polar bears and seals."
+      },
+      {
+        "name": "Swamp",
+        "description": "Waterlogged areas with standing water and dense vegetation."
+      },
+      {
+        "name": "Algal Bloom",
+        "description": "Temporary overgrowths of algae in bodies of water."
+      },
+      {
+        "name": "Volcanic Island",
+        "description": "Islands formed by volcanic activity, home to unique species."
+      },
+      {
+        "name": "Kelp Forest",
+        "description": "Underwater ecosystems with tall kelp plants, supporting marine life."
+      },
+      {
+        "name": "Steppe",
+        "description": "Grasslands with low precipitation and seasonal temperature extremes."
+      },
+      {
+        "name": "Freshwater Pond",
+        "description": "Small bodies of freshwater, often home to frogs and aquatic insects."
+      },
+      {
+        "name": "Temperate Rainforest",
+        "description": "Rainforests with moderate climates, lush vegetation, and abundant rainfall."
+      },
+      {
+        "name": "Mudflat",
+        "description": "Intertidal areas of mud and silt, important for shorebirds and mollusks."
+      },
+      {
+        "name": "Cave",
+        "description": "Underground chambers and tunnels inhabited by specialized creatures."
+      },
+      {
+        "name": "Canyon",
+        "description": "Deep, narrow valleys with unique microclimates and biodiversity."
+      },
+      {
+        "name": "Rocky Shore",
+        "description": "Coastal areas with rocky terrain, supporting intertidal species."
+      },
+      {
+        "name": "Deciduous Forest",
+        "description": "Forests with trees that shed leaves seasonally, home to diverse wildlife."
+      },
+      {
+        "name": "Prairie",
+        "description": "Vast grasslands with fertile soil, once home to bison herds."
+      },
+      {
+        "name": "Salt Flat",
+        "description": "Dried-up lake beds with salt deposits, often devoid of vegetation."
+      },
+      {
+        "name": "Tropical Wetland",
+        "description": "Wetlands in tropical regions with high rainfall and biodiversity."
+      },
+      {
+        "name": "Cape",
+        "description": "Coastal headlands and promontories, offering nesting sites for birds."
+      },
+      {
+        "name": "Oasis",
+        "description": "Desert water sources with lush vegetation and wildlife."
+      },
+      {
+        "name": "Mud Volcano",
+        "description": "Volcanic landscapes with mud eruptions, home to specialized life forms."
+      },
+      {
+        "name": "Artificial Reef",
+        "description": "Human-made structures submerged in the sea, supporting marine life."
+      },
+      {
+        "name": "Tidal Pool",
+        "description": "Small pools of seawater left behind during low tide, teeming with life."
+      },
+      {
+        "name": "Agricultural Field",
+        "description": "Managed landscapes used for farming, impacting local ecosystems."
+      },
+      {
+        "name": "Floodplain",
+        "description": "Low-lying areas near rivers prone to periodic flooding."
+      },
+      {
+        "name": "Thermal Vent",
+        "description": "Underwater geothermal vents with unique chemosynthetic ecosystems."
+      },
+      {
+        "name": "Cloud Forest",
+        "description": "Moist, misty forests at high elevations, rich in biodiversity."
+      },
+      {
+        "name": "Urban Park",
+        "description": "Green spaces within cities, providing habitat for urban wildlife."
+      },
+      {
+        "name": "Salt Marsh",
+        "description": "Coastal wetlands with salt-tolerant plants, important for shorebirds."
+      },
+      {
+        "name": "Rice Paddy",
+        "description": "Flooded fields used for rice cultivation, supporting aquatic life."
+      },
+      {
+        "name": "Pine Barren",
+        "description": "Ecosystems dominated by pine trees and sandy soils."
+      },
+      {
+        "name": "Highland Plateau",
+        "description": "Elevated flatlands with unique vegetation and fauna."
+      },
+      {
+        "name": "Crater Lake",
+        "description": "Volcanic calderas filled with pristine water, supporting native species."
+      },
+      {
+        "name": "Hot Spring",
+        "description": "Natural springs with geothermally heated water, hosting thermophilic organisms."
+      },
+      {
+        "name": "Oxbow Lake",
+        "description": "Curved lakes formed from old river meanders, rich in aquatic life."
+      },
+      {
+        "name": "Oil Spill Area",
+        "description": "Locations impacted by oil spills, requiring cleanup and restoration."
+      },
+      {
+        "name": "Salt Cave",
+        "description": "Underground caves with salt deposits, home to unique adaptations."
+      },
+      {
+        "name": "Wildflower Meadow",
+        "description": "Open areas filled with native wildflowers, vital for pollinators."
+      },
+      {
+        "name": "Quarry",
+        "description": "Excavation sites with rocky terrain, often repurposed for nature conservation."
+      },
+      {
+        "name": "Coral Atoll",
+        "description": "Ring-shaped coral reef formations with central lagoons."
+      },
+      {
+        "name": "Geological Fissure",
+        "description": "Narrow openings in the Earth's crust, sometimes harboring unique life."
+      },
+      {
+        "name": "Bog",
+        "description": "Waterlogged areas with acidic peat soil and specialized flora."
+      }
+    ]
+}
