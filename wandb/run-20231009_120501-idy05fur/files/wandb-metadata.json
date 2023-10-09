@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-10-09T06:35:03.953917",
+    "startedAt": "2023-10-09T06:35:01.319147",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/sivavignesh2902/FYP.git",
+        "commit": "ea921bbaabe250ee7a089e6712c183d2278cede1"
+    },
+    "email": "sivavignesh2902@gmail.com",
+    "root": "E:/FYP/prompt_generator",
+    "host": "SIVAVIGNESHS",
+    "username": "lenovo",
+    "executable": "e:\\FYP\\prompt_generator\\.venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.0,
+        "min": 0.0,
+        "max": 2419.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.0,
+            "min": 0.0,
+            "max": 2419.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 468.68456649780273,
+            "used": 20.141399383544922
+        }
+    },
+    "memory": {
+        "total": 7.788383483886719
+    }
+}
