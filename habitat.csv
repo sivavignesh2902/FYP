@@ -120,7 +120,11 @@ Wildlife tracking,1
 Wildlife preservation,1
 Forest,1
 Woodland,1
+<<<<<<< HEAD
 Jungle,1
+=======
+Jungle,1fo
+>>>>>>> ea921bbaabe250ee7a089e6712c183d2278cede1
 Canopy,1
 Wilderness,1
 Grove,1
@@ -328,3 +332,21 @@ Finance,0
 Industry,0
 Economy,0
 Communication,0
+<<<<<<< HEAD
+=======
+countryside,1
+airport,0
+mountain,1
+skyscraper,0
+lake,1
+library,0
+jungle,1
+factory,0
+beach,1
+school,0
+river,1
+hospital,0
+forest,1
+zoo,1
+apartment,0
+>>>>>>> ea921bbaabe250ee7a089e6712c183d2278cede1
