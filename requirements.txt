@@ -81,6 +81,7 @@ torchvision==0.15.2
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.9.0
+-e git+https://github.com/princeton-nlp/tree-of-thought-llm@b95e1263910947f1d7c3254f43f8eb9939c4a631#egg=tree_of_thoughts_llm
 typer==0.9.0
 typing_extensions==4.7.1
 tzdata==2023.3
